@@ -23,7 +23,7 @@ const PredictionForm = () => {
     setLoading(true);
     try {
       // const response = await fetch('http://localhost:5000/predict', {
-      const response = await fetch('https://insureflow.onrender.com/predict', {
+      const response = await fetch('https://insureflow-1.onrender.com/predict', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
