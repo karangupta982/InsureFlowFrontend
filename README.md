@@ -1,5 +1,3 @@
-Here's a sample `README.md` for the frontend repository of *InsureFlow*:  
-
 ---
 
 # InsureFlow: End-to-End Machine Learning Pipeline with MLOps Integration  
